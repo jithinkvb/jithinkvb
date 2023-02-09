@@ -7,6 +7,6 @@ My Name is JIthin k v
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 ## Skills
 ## Python, Machine Learning, Deeplearning, MySql, Spark, Hadoop, PowerBi, Tableaue
-📫 How to reach me
---> mail - jithinkvb@gmail.com
---> linkedin - www.linkedin.com/in/jithin-k-v-a37301215
+#📫 How to reach me
+- mail - jithinkvb@gmail.com
+- linkedin - www.linkedin.com/in/jithin-k-v-a37301215
