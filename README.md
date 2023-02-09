@@ -5,3 +5,5 @@ My Name is JIthin k v
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a big data & data science intern at Luminar Technolab
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+## Skills
+Python, Machine Learning, Deeplearning, MySql, Spark, Hadoop, PowerBi, Tableaue
